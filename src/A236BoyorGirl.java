@@ -52,7 +52,7 @@ import java.util.Set;
  * 
  */
 
-public class A263BoyorGirl {
+public class A236BoyorGirl {
 	public static void main(String[] arags) {
 		Scanner cin = new Scanner(System.in);
 		String str=cin.next();
